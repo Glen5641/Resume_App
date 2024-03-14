@@ -1,0 +1,22 @@
+.header {
+    float: right;
+    margin: 25px -10px;
+    position: relative; 
+    width: 60%;
+    right: 0;
+    height: 150px;
+    overflow: hidden;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 75px;
+    background-color: #bcbecc;
+    display: flex;
+    color: black;
+}
+
+.headerPic {
+    width: 150px;
+    height: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-color: white;
+}

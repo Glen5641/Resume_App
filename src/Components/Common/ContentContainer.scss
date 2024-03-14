@@ -1,0 +1,41 @@
+@import '../../Global';
+
+
+.h1Container {
+    margin: 10px auto;
+    position: relative; 
+    width: 100%;
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.h1HeadingContainer {
+    position: relative;
+    background-color: $headerColor;
+    width: calc(100% - 40px);
+    padding: 10px 20px;
+    font-size: $headerFont;
+    color: white;
+}
+
+.h1Heading {
+    float: left;
+    width: 90%;
+}
+
+.h1Collapsable {
+    float: right;
+}
+
+.h1ContentContainer {
+    overflow: hidden;
+    background-color: $contentColor;
+    width: 95%;
+    transition: 0.2s ease-out;
+    padding: 20px 2.5%;
+}
+
+.h1Children {
+    padding: 10px 0;
+}

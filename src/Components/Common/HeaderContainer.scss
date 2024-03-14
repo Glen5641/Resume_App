@@ -1,0 +1,39 @@
+@import '../../Global';
+
+.h2Container {
+    margin: 20px auto;
+    position: relative; 
+    width: 80%;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.h2HeadingContainer {
+    position: relative;
+    background-color: $headerColor;
+    width: calc(100% - 40px);
+    padding: 10px 20px;
+    font-size: $headerFont;
+    color: $headerFontColor
+}
+
+.h2Heading {
+    float: left;
+}
+
+.h2Collapsable {
+    float: right;
+}
+
+.h2Content {
+    overflow: hidden;
+    background-color: $contentColor;
+    width: 100%;
+    transition: 0.2s ease-out;
+}
+
+.h2Children {
+    padding: 20px 2.5%;
+    width: 95%;
+}
+

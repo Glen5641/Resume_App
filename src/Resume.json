@@ -1,0 +1,126 @@
+{
+    "Objective": "Driven and adaptable engineer with a passion for crafting and optimizing solutions to enhance user experiences, back-end and front-end. Strong foundation in software development to contribute to cutting-edge projects and drive technological advancement. Seeking opportunities to collaborate within dynamic teams, tackle complex challenges, and continue to grow professionally.",
+    "Experiences" : [
+        {
+            "Title": "Software Engineer",
+            "PlaceOfEmployment": "Capital One Auto Finance",
+            "Location": "Plano, TX",
+            "Years": "May 2022 - Current",
+            "Description": [
+                "Created solution to capture the identity of 50k+ Storefronts, Dealers, and Dealer Groups as the backbone of all auto finance solutions in internal, and external operations.",
+                "Created multiple solutions for increasing sales generated that were geared toward Dealers and Dealer Groups."
+            ],
+            "Highlights": [
+                {
+                    "Title": "Main takeaways",
+                    "Description": [
+                        "Delivering scalable and reusable products in a timely manner in a start-up atmosphere.", 
+                        "Collecting Requirements from multiple customers",
+                        "Iterating large products"
+                    ]
+                },
+                {
+                    "Title": "Languages and Platforms",
+                    "Description": "Java, Python, Apex, LWC Javascript, Typescript, Kafka, Springboot + Lombok + Chassis (In house Java Platform), PipEnv and Pip Combo, Angular, MFEs, Salesforce, Postgre SQL w/ Aurora and RDB, AWS Lambda, ECS, Postman, Splunk, Sonar, Whitesource, New Relic, Hygeia, DataLakes, Snowflake, DevNav, Jenkins, Bogie w/ Gears, and Bogie V2."
+                }
+            ]
+        },
+        {
+            "Title": "Software Engineer",
+            "PlaceOfEmployment": "Symphonic Source",
+            "Location": "Addison, TX",
+            "Years": "February 2020 – April 2022",
+            "Description": [
+                "Overhauled the subscription and payment platform to account for additional features the company provided, and allowed full spectrum customization for Sales to utilize.",
+                "Worked in tandem with Engineering Director to stand up a React Platform to completely rewrite the full PAAS website from KnockoutJS, isolating code and optimizing time sensitive responses."
+            ],
+            "Highlights": [
+                {
+                    "Title": "Main takeaways",
+                    "Description": [
+                        "Working in a fast paced industry",
+                        "Ethical and Performance Testing",
+                        "UX development"
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Freelance Employment",
+            "PlaceOfEmployment": "External to University",
+            "Location": "Norman, OK",
+            "Years": "November 2017 – February 2020",
+            "Highlights": [
+                {
+                    "Title": "Projects",
+                    "Description": [
+                        "Automated Site Speed Testing and Data Collection for Apartment Internet Networks",
+                        "Resident Matching Application for Local Apartments to OU",
+                        "Electric Overage Calculator Application for Local Apartments to OU",
+                        "Targeted Advertising with excel table joining scripts"
+                    ]
+                },
+                {
+                    "Title": "Main takeaways",
+                    "Description": "Linux, Networking, Remote and In-person Interaction, Customer Relations, Large Scale Organization, Automation, Targeted Micro Advertising, New Technologies, Inclusivity, Realistic Quoting, Sales, Documentation, Customer Relations"
+                }
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Title": "AWS Certified Solutions Architect - Associate",
+            "Status": "Active"
+        },
+        {
+            "Title": "CSSE - Capital One",
+            "Status": "Active"
+        }
+    ],
+    "Education": {
+        "Name": "University of Oklahoma, Gallogly College of Engineering",
+        "Location": "Norman, OK",
+        "Year": "May 2020",
+        "Degree": "Bachelor of Engineering in Computer Science",
+        "Major": "Computer Science Minor: Mathematics",
+        "Activities": "OU Coed Cheer Captain, Hacklahoma",
+        "Coursework": "Programming – Data Structures, Abstractions, Organization, Operating Systems, Requirements and Specifications, Computation Theory, Language Principles, Human Computer Interaction, Algorithm Analysis, Database Systems. Mathematics - Differential & Integral Calculus 1 2 & 3, Discrete Mathematics, Linear Algebra, Partial Differential Equations, Applied Statistical Methods, Numerical Methods, Physics"
+    },
+    "Projects": [
+        {
+            "Name": "Vipir",
+            "Description": "User Interface that connected to Google’s YouTube API with OAUTH credentialing. Allowed filtering and video display to allow users to watch desired videos. Team used Git and Git’s version control to collaborate and with Atom’s Teletype to connect independent code segments when cross-programming was needed.",
+            "Stack": "Java, JavaFX, JavaScript, Google API, GitHub, Git Markdown, Atom, Teletype, Eclipse"
+        },
+        {
+            "Name": "Speed Testing Program",
+            "Description": "Used abandoned computer with Wi-Fi adapter as Linux Server to Main Distribution Frame Access Point and run script to access 2.4g and 5g bands to test download and upload speeds of apartment community and submit forms for Speed Testing.",
+            "Stack": "Python, SpeedTest.net CLI, Mechanize, Linux Terminal"
+        },
+        {
+            "Name": "Targeted Resident Renewals",
+            "Description": "App Script decided on macros that collects 2 csv files including an alpha list and renewal list and joins the tables to collect certain residents who need to be targeted for renewals.",
+            "Stack": "Python, Google Sheets"
+        },
+        {
+            "Name": "Generator Efficiency Monitoring Program",
+            "Description": "Full Stack Program using Cloud Computing. Program that generates random inputs and outputs for generators and creates Dynamic RESTful Endpoints in test, then collects and aggregates generator data to send to consumer that performs efficiency modeling and stores in AWS S3 DataLake. Using Alive Fetch calls for a frontend REACT Website to display user indicated generator efficiency charts using past data and predictions by linear regression in real time.",
+            "Stack": "Node.js, Python, React.js, ASyncIO, AIOHTTP, JSON, Node.js, Express, SeedRandom, RESTful API, CORS, AWS S3, AWS Athena, AWS Lambda, Amazon API Gateway"
+        },
+        {
+            "Name": "Roku and Google Assistant API Client",
+            "Description": "Using Roku’s Local Network API, Google OAuth and API’s, Python, and an old computer to build a local IoT server and UI to access all devices in my local network. This is implemented for computer use and Raspberry Pi use as a smart coffee table.",
+            "Stack": "Python, React.js, Roku CLI, Google API"
+        }
+
+    ],
+    "Skills": [
+        "Leadership", "Well Versed in Backend Development", "Communication", "Presentations", "UIs and Frontend Development", "Time Management", "Expert Troubleshooting", "Microsoft 365 and G Suite Adaptability", "TCP/IP and UDP Protocols", "Multithreading", "Cloud Computing", "IaaS", "SaaS", "Data Structures", "Algorithms", "Documentation", "Improving Team Culture", "AWS Features"
+    ],
+    "Languages": [
+        "C#", "Java", "C", "C++", "Python", "Ruby", "Bash", "MySQL", "NoSQL", "PostgreSQL", "Gremlin", "HTML", "CSS", "React", "Node", "Typescript/JavaScript", "LIT Element"
+    ],
+    "Tech": [
+        "RESTful API (Various Sync, Async, and Stream)", "Asp.net MVC", "AWS S3", "AWS EC2", "AWS Lambda", "AWS Fargate", "AWS API Gateway", "AWS Neptune", "GCP Compute Engine", "GCP App Engine", "ROS", "Parallel Computing", "AWS Data Lake", "Django", "Flask", "JDBC", "Entity Framework", "JPA"
+    ]
+}
